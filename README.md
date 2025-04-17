@@ -1,1 +1,1 @@
-# Chinese_EduNER
+# AI Agent 简单应用
